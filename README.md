@@ -100,6 +100,7 @@ Design cardiovascular interventions that consider gender-specific measurement va
 
 Implement comprehensive heart health assessments for individuals around age 77. These assessments should focus on identifying and addressing specific cardiovascular risk factors, considering the observed differences in trtbps and thalachh values for males and females in this age group.
 
+[SQL Script and detailed data regarding various measurements values are available here](Script for Hearthealth data.sql)
 
 
 
