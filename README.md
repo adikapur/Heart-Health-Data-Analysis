@@ -25,7 +25,6 @@ This dataset provides insights into various factors associated with the likeliho
 
 ## Visualization
 
-![Dashboard](https://github.com/adikapur/Adi-Portfolio/blob/main/Dashboard%201%20heartdata.png)
 ![Alt text](Dashboard 1 heartdata.png)
 
 
